@@ -9,5 +9,4 @@ encoding: UTF-8
 markdown: kramdown
 #markdown: redcarpet
 #highlighter: pygments
-highlighter: False
 baseurl: # the subpath of your site, e.g. /blog/
