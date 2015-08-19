@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Try"
 date: 2015-08-19
