@@ -1,6 +1,6 @@
 # Site settings
 title: 'Nice Boat'  # Your Title
-tagline: 'Nothing Interesting '  # A brief tagline for your site
+tagline: 'Nothing Interesting'  # A brief tagline for your site
 sidebar_image: /images/cover.jpg
 
 
@@ -9,5 +9,5 @@ encoding: UTF-8
 markdown: kramdown
 #markdown: redcarpet
 #highlighter: pygments
-highlighter: true
+highlighter: False
 baseurl: # the subpath of your site, e.g. /blog/
