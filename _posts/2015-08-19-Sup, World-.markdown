@@ -1,10 +1,14 @@
 ﻿---
 layout: post
-title: "Sup, World"
+title: "Try"
 date: 2015-08-19
-categories: Intro
+categories: intro
 featured_image: /images/cover.jpg
 ---
+
+###Sup, World
+
+####2015.08.19
 
 第一次尝试用git来弄一个小project,做了一个自己的blog。感谢张大佬的亲临指点。
 
